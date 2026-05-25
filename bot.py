@@ -31,11 +31,11 @@ async def start(client, message):
     chat_id = message.chat.id
     buttons = InlineKeyboardMarkup([
         [
-            InlineKeyboardButton("ᴍᴀɪɴ ʜᴜʙ", url="https://t.me/Bots_Nation"),
-            InlineKeyboardButton("ꜱᴜᴩᴩᴏʀᴛ ᴄʜᴀɴɴᴇʟ", url="https://t.me/Bots_Nation_Support"),
+            InlineKeyboardButton("ᴍᴀɪɴ ʜᴜʙ", url="https://t.me/+pGtd3B1igQcxNTZl"),
+            InlineKeyboardButton("ɴᴇᴛᴡᴏʀᴋ", url="https://t.me/Zenkai_Network"),
         ],
         [
-            InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/darkxside78"),
+            InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/SubaruXnatsuki"),
         ],
     ])
     caption = (
